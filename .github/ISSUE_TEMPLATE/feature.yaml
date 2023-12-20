@@ -1,0 +1,29 @@
+name:  Ideia 
+description: Sugestão de Melhorias a serem feitas no Projeto
+title: "Título da sua Ideia!"
+labels:
+  - "enhancement"
+assignees:
+  - stephan-lopes
+  - Dokaoinsta
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por dedicar um pouco do seu tempo para compartilhar a sua ideia!
+  - type: input
+    id: title
+    attributes:
+      label: Título
+      description: Qual seria o nome da sugestão de melhoria que deseja ver no projeto?
+      placeholder: Ex. Incluir opção de flags
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Sugestão
+      description: Descreva, com o máximo de detalhes possíveis, a sugestão.
+      placeholder: Nos explique, com detalhes, sua ideia/sugestão, e como que isso melhora o projeto para as outras pessoas!
+    validations:
+      required: true

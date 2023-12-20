@@ -1,0 +1,29 @@
+name:  Bug Report 
+description: Bugs identificados no programa.
+title: "Título do Bug!"
+labels:
+  - "bug"
+assignees:
+  - stephan-lopes
+  - Dokaoinsta
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por dedicar um pouco do seu tempo para este bug report!
+  - type: input
+    id: contact
+    attributes:
+      label: Contato
+      description: Como podemos entrar em contato com você, para melhores informações?
+      placeholder: ex. email@example.com
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: O que aconteceu?
+      description: Nos diga, o que você viu e o que esperava ver, na execução do código?
+      placeholder: Diga-nos, o que você identificou como um bug?
+    validations:
+      required: true

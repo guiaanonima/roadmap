@@ -1,0 +1,91 @@
+name: Pull Request
+description: Informações necessárias para o Pull Request.
+title: "Título de Pull Request"
+labels: [bug, enhancement]
+assignees:
+  - stephan-lopes
+body:
+  - type: markdown
+    attributes:
+      value: "Obrigado por contribuir! Por favor, preencha as informações a seguir para ajudar a agilizar a revisão do seu pull request."
+  
+  - type: input
+    id: título
+    attributes:
+      label: Título do Pull Request
+      description: "Dê um título conciso e claro sobre a natureza do PR."
+      placeholder: "Corrige um bug em..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: descricao
+    attributes:
+      label: Descrição de Mudança
+      description: "Uma descrição detalhada do que está sendo alterado ou adicionado"
+      placeholder: "Corrige um bug em..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: tipo-mudanca
+    attributes:
+      label: Tipo de Mudança
+      description: "Selecione o tipo de mudança que seu PR introduz no projeto:"
+      options:
+        - Bugfix
+        - Feature
+        - Refactoring
+        - Code style update
+        - Documentação
+        - Outros
+    validations:
+      required: true
+
+  - type: textarea
+    id: como-testado
+    attributes:
+      label: Como isso foi testado?
+      description: "Descreva os testes que você executou para verificar suas mudanças."
+      placeholder: "Descrição dos testes realizados..."
+    validations:
+      required: false
+  
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: checklist
+      description: "Confirme se as seguintes ações foram tomadas antes de submeter o PR."
+      options:  
+        - label: "Meu código segue as diretrizes de estilo deste projeto."
+        - label: "Eu fiz uma autoavaliação do meu próprio código."
+        - label: "Eu comentei meu código, principalmente em áreas dificeis de entender."
+        - label: "Eu fiz as alterações correspondentes na documentação."
+        - label: "Minhas mudanças não geram novos warnings."
+        - label: "Adicionei testes que provam que minha correção é efetiva ou que meu recurso funciona."
+        - label: "Testes unitários novos e existentes passam localmente com minhas mudanças."
+        - label: "Quaisquer alterações dependentes foram mescladas e publicadas nos módulos downstream."
+      validations:
+        required: true
+
+  - type: textarea
+    id: info-adicional
+    attributes:
+      label: Informações Adicionais
+      description: "Quaisquer informações adicionais para compartilhar"
+      placeholder: "Informações extras aqui..."
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      label: Screenshots
+      description: "Se aplicável, adicione Screenshots para ajudar a explicar a mudança."
+    
+  - type: file
+    id: Screenshots
+    attributes:
+      label: Screenshots
+      description: "Anexe imagens se necessário"
+    validations:
+      required: false
