@@ -12,7 +12,7 @@ Foco Principal: Segurança Ofensiva Web
   * x32 VS x64 VS ARM
   ---
 * [1] Redes de Computadores
-  * Como a Internet Funciona?
+  * Como a Internet Funciona? <a target="_blank" rel="noopener noreferrer" href="https://guiaanonima.com"> <img src="/assets/icon-youtube.png" width="20" height="20" /></a>
   * IP VS MAC
   * Rede Interna VS Rede Externa
   * Modelo OSI
