@@ -2,7 +2,7 @@
 <br>
 <h3 align="Center">Roadmap: CyberSecurity - Segurança Ofensiva Web</h3>
 <br>
-<div align="Center"><img src="./assets/roadmapIcon.png" width="300" height="300"/></div>
+<div align="Center"><img src="./assets/roadmapIcon.png" width="150" height="150"/></div>
 
 <b><p align="Center">Desenvolvido pelo [Guia Anônima](https://guiaanonima.com/)</p></b>
 
@@ -30,6 +30,8 @@
 
 [5 - Indicações de Ferramentas](#5IF)
 
+[ - Indicações de Profissionais](#6IF)
+
 
 
 <br>
@@ -42,13 +44,13 @@
 <details>
 <summary><b>0 - Computação Básica</b></summary>
 
-* Como o Computador Funciona?
-* O que é Binário?
-* Software VS Hardware
+* Como o Computador Funciona? <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
+* O que é Binário? <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
+* Software VS Hardware <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
   * Como Funciona um Sistema Operacional? <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
   * Windows VS Linux <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
     * Comandos e Funcionalidades Básicas de Cada Sistema <a href="https://fundamentos.guiaanonima.com" target="blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/xlTW05ED8YM?si=BW0OFh-b9nQ3xB9T" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
-  * x32 VS x64 VS ARM
+  * x32 VS x64 VS ARM <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
 
 </details>
 
@@ -151,7 +153,7 @@
     * Diferença Entre: Vulnerabilidade, Ameaça e Risco <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
     * Diferença Entre: Payload e Exploit <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
   * Hacker VS Cracker <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/tKUlilZmkUk?si=yOrQjlbmq5GdlAYN" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
-    * RedTeam VS BlueTeam <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/-v2ExAbGT8E?si=Mgq36ka-03Ugcqgt" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
+    * RedTeam VS BlueTeam <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/-v2ExAbGT8E?si=Mgq36ka-03Ugcqgt" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a><a href="https://blog.guiaanonima.com/estrategias-de-red-team-vs-blue-team-preparando-empresas-para-ataques-reais/" target="_blank"> <img src="./assets/icon-blog.png" width="15" height="15" /></a>
     * CyberSecurity Color Wheel <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/6JqxfbFXn0g?si=W2XSEFCMGdqoYpP9" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
   * O que é Zero Day <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
   * OWASP TOP 10 <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/8Ao-wCaBF6o?si=PinJCtPAzDkbf7Kv" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
@@ -167,26 +169,28 @@
   * O que é OSINT? <a href="https://youtu.be/z8u3lV9IItQ?si=AchsX8PkZ7KMiJyj" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
   * Google Hacking <a href="https://www.youtube.com/playlist?list=PL41yJfzZogTTlH-NlKTEnu-jsH0EQjwxC" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
   * LGPD e GDPR <a href="https://youtu.be/Yp2M-hm2lWM?si=oWRYtEDeWXkxapRH" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
+  * CVE e CWE <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
+  * CVSS <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="[https://youtu.be/iFV9sgCptcs?si=uI98gTzvK3hWoBz3](https://youtu.be/1US3-7TiYtk)" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a> <a href="https://blog.guiaanonima.com/como-as-vulnerabilidades-sao-classificadas/" target="_blank"> <img src="./assets/icon-blog.png" width="15" height="15" /></a>
   * Principais Vulnerabilidades
     * Missing Configuration <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/XW5qVkk3Eio" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
     * GIT Exposed <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/Be7dV-yu8-8?si=KDRSXVmCpKPOumgR" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
     * iDOR <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/9hwjumRnjeM" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
-    * LFI e RFI <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/4ElfhnPTDsE" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
-    * SQL Injection <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/BZxqH3ORoqU" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
+    * LFI e RFI <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/4ElfhnPTDsE" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a><a href="https://blog.guiaanonima.com/local-file-inclusion-lfi-no-plugin-simple-job-board-do-wordpress/" target="_blank"> <img src="./assets/icon-blog.png" width="15" height="15" /></a>
+    * SQL Injection <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/BZxqH3ORoqU" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a><a href="https://blog.guiaanonima.com/fazendo-uma-web-shell-atraves-de-um-sql-injection/" target="_blank"> <img src="./assets/icon-blog.png" width="15" height="15" /></a>
     * HTML Injection <a href="https://fundamentos.guiaanonima.com" target="_blank"><a href="https://youtu.be/LQphDiymt8I" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
-    * Cross-Site Scripting (XSS) <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/jUHeZrKLIw8" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
+    * Cross-Site Scripting (XSS) <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/jUHeZrKLIw8" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a><a href="https://blog.guiaanonima.com/ataques-de-xss-em-aplicacoes-php-explorando-o-_serverphp_self/" target="_blank"> <img src="./assets/icon-blog.png" width="15" height="15" /></a>
     * XXE <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/P6iBSGntzfU" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
     * CRLF Injection <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/FhXY4vgeECc?si=M-nWoDsLSAMYFaN4" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
     * SSTI <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/sYrHhucWD6M" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
     * Command Injection
-    * RCE <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/DS_xw7lyzRE" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
+    * RCE <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/DS_xw7lyzRE" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a> <a href="https://blog.guiaanonima.com/remote-code-execution-via-polyglot-web-shell-upload/" target="_blank"> <img src="./assets/icon-blog.png" width="15" height="15" /></a>
     * Open Redirect <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/ENACXGWD8Qk" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
     * Subdomain TakeOver <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/Qfz3L5O0idM" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
     * Account TakeOver <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/51JafToGgiw" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
     * CSRF <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/nsznB_8zAqw" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
     * SSRF <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/jvoTqhDWasI" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
-    * Desserialização Insegura <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/XzPdbl5i4BQ" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
-    * HTTP Host-Header Attack / Host header Injection <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/0U4xXjg_qB0" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
+    * Desserialização Insegura <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/XzPdbl5i4BQ" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a><a href="https://blog.guiaanonima.com/desserializacao-insegura-em-php/" target="_blank"> <img src="./assets/icon-blog.png" width="15" height="15" /></a>
+    * HTTP Host-Header Attack / Host header Injection <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/0U4xXjg_qB0" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a><a href="https://blog.guiaanonima.com/host-header-injection/" target="_blank"> <img src="./assets/icon-blog.png" width="15" height="15" /></a>
     * Session Hijack <a href="https://youtu.be/L4T9YzQjZ8M?si=cqNwCnu2SiLGhuuF" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
     * ClickJacking
     * BufferOverFlow <a href="https://youtu.be/MB3lscs5C7E" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
@@ -207,7 +211,7 @@
 
 <summary><b>4 - Criptografia</b></summary>
 
-* A História da Criptografia
+* A História da Criptografia <a href="https://blog.guiaanonima.com/decifrando-a-criptografia-uma-jornada-desde-suas-origens-ate-a-era-digital/" target="_blank"> <img src="./assets/icon-blog.png" width="15" height="15" /></a>
   * Criptografia Simétrica VS Assimétrica
     * AES VS DES <a href="https://youtu.be/WRX6sWGRAY0?si=b-Jn8O5fuFxKvrSe" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
   * Chave Pública VS Chave privada
@@ -229,7 +233,7 @@
 
   * DNSDumpster, DNSScan e SecurityTrails <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
   * NMap <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/uXbsnm6WLWc?si=qVldZBaskVE_NLUZ" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
-  * Findomain, SubFinder, SubList3r e CTFR <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/dRkJR1Htjxg?si=g5GgCIDMYvz8FMuB" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
+  * Findomain, SubFinder, SubList3r e CTFR <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/dRkJR1Htjxg?si=g5GgCIDMYvz8FMuB" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a><a href="https://blog.guiaanonima.com/enumerando-subdominios-com-o-subfinder/" target="_blank"> <img src="./assets/icon-blog.png" width="15" height="15" /></a>
   * GoBuster, Ffuf, WFuzz, Dirb e Dirbuster <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/IDbvazxLPNw?si=V0wgXoN0zJLviVYP" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
   * GAU, ParamSpider e Aquatone <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/bkDWUhT0cVE?si=Vm_cSvFDP216teCP" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
   * Dalfox e GF <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
@@ -242,9 +246,73 @@
   * THC Hydra, John The Ripper e Hashcat <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
   * WireShark <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/X5Z5oOnemFA?si=kO0ZC2rTwQDLCZg6" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
   * Anonsurf e Proxychains <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/MXRKBiQNQPM?si=-wu89bidBEr9CEPh" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
+  * Sherlock <a href="https://blog.guiaanonima.com/sherlock-a-ferramenta-de-inteligencia-de-codigo-aberto-para-descobrir-identidades-online/" target="_blank"> <img src="./assets/icon-blog.png" width="15" height="15" /></a>
+
+</details>
+
+<br>
+
+
+<h2 name="6IF">6 - Indicações de Perfis, Profissionais e Comunidades para Seguir</h2>
+<p>As indicações de profissionais e comunidades podem ser utilizadas para consumir conteúdo de qualidade e criar networking.</p>
+
+
+<details>
+<summary><b>6 - Indicações de Profissionais</b></summary>
+
+* <a href="https://instagram.com/canalguiaanonima"><b>@canalguiaanonima</b></a>
+* <a href="https://instagram.com/_kaduzambelli">@_kaduzambelli</a>
+* <a href="https://instagram.com/ackercode">@ackercode</a>
+* <a href="https://instagram.com/alquymiabr">@alquymiabr</a>
+* <a href="https://instagram.com/alycesuza">@alycesuza</a>
+* <a href="https://instagram.com/badtux_">@badtux_</a>
+* <a href="https://instagram.com/c4ng4c31r0">@c4ng4c31r0</a>
+* <a href="https://instagram.com/carlos.crowsec">@carlos.crowsec</a>
+* <a href="https://instagram.com/carlosadrianosj">@carlosadrianosj</a>
+* <a href="https://instagram.com/chapeudepalhahackerclub">@chapeudepalhahackerclub</a>
+* <a href="https://instagram.com/coffops">@coffops</a>
+* <a href="https://instagram.com/cryptoroot">@cryptoroot</a>
+* <a href="https://instagram.com/danilodcordeiro">@danilodcordeiro</a>
+* <a href="https://instagram.com/daniloregissec">@daniloregissec</a>
+* <a href="https://instagram.com/demetrius_official">@demetrius_official</a>
+* <a href="https://instagram.com/fprado28">@fprado28</a>
+* <a href="https://instagram.com/filipipires.sec">@filipipires.sec</a>
+* <a href="https://instagram.com/formminghackers">@formminghackers</a>
+* <a href="https://instagram.com/gabriellakohatsu">@gabriellakohatsu</a>
+* <a href="https://instagram.com/getup.io">@getup.io</a>
+* <a href="https://instagram.com/hackingnaweboficial">@hackingnaweboficial</a>
+* <a href="https://instagram.com/hackademybr">@hackademybr</a>
+* <a href="https://instagram.com/h4ckthreat">@h4ckthreat</a>
+* <a href="https://instagram.com/joasantonio.s">@joasantonio.s</a>
+* <a href="https://instagram.com/juliodellaflora">@juliodellaflora</a>
+* <a href="https://instagram.com/linuxtipsbr">@linuxtipsbr</a>
+* <a href="https://instagram.com/lowlevelclub">@lowlevelclub</a>
+* <a href="https://instagram.com/lucasmoreiiraa_">@lucasmoreiiraa_</a>
+* <a href="https://instagram.com/marinaciavatta">@marinaciavatta</a>
+* <a href="https://instagram.com/meiryleneavelinocybertech">@meiryleneavelinocybertech</a>
+* <a href="https://instagram.com/mentebinaria_">@mentebinaria_</a>
+* <a href="https://instagram.com/meninadecybersec">@meninadecybersec</a>
+* <a href="https://instagram.com/ofjaaah">@ofjaaah</a>
+* <a href="https://instagram.com/ooclaar">@ooclaar</a>
+* <a href="https://instagram.com/ouigabi">@ouigabi</a>
+* <a href="https://instagram.com/penegui">@penegui</a>
+* <a href="https://instagram.com/qualteupapo">@qualteupapo</a>
+* <a href="https://instagram.com/racerxdl">@racerxdl</a>
+* <a href="https://instagram.com/rafaelchriss95">@rafaelchriss95</a>
+* <a href="https://instagram.com/rcperitodigital">@rcperitodigital</a>
+* <a href="https://instagram.com/rinconzeraa">@rinconzeraa</a>
+* <a href="https://instagram.com/rodrigop3ixoto">@rodrigop3ixoto</a>
+* <a href="https://instagram.com/strongreen">@strongreen</a>
+* <a href="https://instagram.com/sysadmin_impaciente">@sysadmin_impaciente</a>
+* <a href="https://instagram.com/tecsecpodcast">@tecsecpodcast</a>
+* <a href="https://instagram.com/thaysesolis">@thaysesolis</a>
+* <a href="https://instagram.com/wh0isdxk">@wh0isdxk</a>
+
+
 
 </details>
 
 <br>
 
 <h3 align="Center">EM DESENVOLVIMENTO</h3>
+Próximos Passos:  Adição de Indicações de Livros   |   Adição de Novos Itens
