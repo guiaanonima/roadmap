@@ -30,7 +30,7 @@
 
 [5 - Indicações de Ferramentas](#5IF)
 
-[ - Indicações de Profissionais](#6IF)
+[6 - Indicações de Profissionais](#6IF)
 
 
 
@@ -50,7 +50,7 @@
   * Como Funciona um Sistema Operacional? <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
   * Windows VS Linux <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
     * Comandos e Funcionalidades Básicas de Cada Sistema <a href="https://fundamentos.guiaanonima.com" target="blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/xlTW05ED8YM?si=BW0OFh-b9nQ3xB9T" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
-  * x32 VS x64 VS ARM <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
+  * x86 VS x64 VS ARM <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
 
 </details>
 
@@ -157,7 +157,8 @@
     * CyberSecurity Color Wheel <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/6JqxfbFXn0g?si=W2XSEFCMGdqoYpP9" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
   * O que é Zero Day <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
   * OWASP TOP 10 <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/8Ao-wCaBF6o?si=PinJCtPAzDkbf7Kv" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
-    * OWASp API TOP 10 <a href="https://youtu.be/fKDWqx4Qbyw?si=55SDaNVoy6ddPP0y" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
+    * OWASP API TOP 10 <a href="https://youtu.be/fKDWqx4Qbyw?si=55SDaNVoy6ddPP0y" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
+    * OWASP MOBILE TOP 10
     * OWASP Embedded Application Security <a href="https://youtu.be/jDfO5ixAbCE?si=IOKWGlxRY8o-dmVq" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
   * Metodologias de Segurança Ofensiva <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a><a href="https://youtu.be/iFV9sgCptcs?si=uI98gTzvK3hWoBz3" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
     * PTES <a href="https://youtu.be/hV2wYIB9Frs" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
@@ -282,6 +283,7 @@
 * <a href="https://instagram.com/getup.io">@getup.io</a>
 * <a href="https://instagram.com/hackingnaweboficial">@hackingnaweboficial</a>
 * <a href="https://instagram.com/hackademybr">@hackademybr</a>
+* <a href="https://instagram.com/hacknlearn">@hacknlearn</a>
 * <a href="https://instagram.com/h4ckthreat">@h4ckthreat</a>
 * <a href="https://instagram.com/joasantonio.s">@joasantonio.s</a>
 * <a href="https://instagram.com/juliodellaflora">@juliodellaflora</a>
