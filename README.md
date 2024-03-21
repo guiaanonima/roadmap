@@ -122,17 +122,17 @@
   * Servidores Web: Apache e NGINX <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
   * O que são Bibliotecas e Frameworks?
   * O que São CMS? <a href="https://youtu.be/oznfjj67ZP0?si=gXMqD8vQNOo76Yw_" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
-  * Banco de Dados
-    * Banco de Dados Relacional VS Não-Relacional <a href="https://youtu.be/BmqNPfaWhlw?si=ZimYVySxrQ5wXnK2" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a>
-    * SGBD
-    * PostgreSQL, MySQL e MariaDB
+  * Banco de Dados <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
+    * Banco de Dados Relacional VS Não-Relacional <a href="https://youtu.be/BmqNPfaWhlw?si=ZimYVySxrQ5wXnK2" target="_blank"> <img src="./assets/icon-youtube.png" width="15" height="15" /></a> <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
+    * SGBD <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
+    * PostgreSQL, MySQL e MariaDB <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
   * Linguagens "Obrigatórias"
-    * SQL
+    * SQL <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>
     * C
   * Linguagens "Opcionais"
     * Para Web: JavaScript, PHP e Ruby
     * Para Sistemas Operacionais / Low-Level: C, C++, C# e Assembly
-    * Para Automações e Scripts: Python, GO e Pearl
+    * Para Automações e Scripts: Python <a href="https://fundamentos.guiaanonima.com" target="_blank"> <img src="./assets/icon-fundamentos.png" width="15" height="15" /></a>, GO e Pearl
     * Para Sofrer: Java
 
 </details>
