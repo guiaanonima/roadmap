@@ -32,6 +32,9 @@
 
 [6 - Indicações de Profissionais](#6IF)
 
+[7 - Indicações de Livros](#7IL)
+
+
 
 
 <br>
@@ -313,8 +316,67 @@
 
 
 </details>
+<br>
 
+
+<h2 name="7IL">7 - Indicações de Livros</h2>
+<p>As indicações de Livros são feitas por meio de recomendações de terceiros em Perfis de profissionais, estudantes e comunidades.</p>
+
+
+<details>
+<summary><b>7 - Indicações de Livros</b></summary>
+<br>
+ 
+* Livros sobre Computação e Sistemas Operacionais
+  * Sistemas Operacionais Modernos - por Andrew S. Tanenbaum
+  * Organização Estruturada de Computadores - por Andrew S. Tanenbaum
+  * Administração de Redes Linux - por Ricardo Lino Olonca
+  * Guia prático do servidor Linux - por Juliano Ramos
+  * Linux Bible - por Christopher Negus
+  * Linux Kernel Programming - por Kaiwan N Billimoria
+<br>
+ 
+ * Livros sobre Redes de Computadores
+   * Redes de Computadores - por Andrew Tanenbaum
+   * Redes de Computadores e Internet - por Douglas E. Comer
+   * Redes de Computadores e a Internet: Uma Abordagem Top-Down - por Jim Kurose (Autor)
+<br>
+
+* Livros sobre Banco de Dados e SQL
+  * Introdução à Linguagem SQL: Abordagem Prática Para Iniciantes - por Thomas Nield
+  * Use a cabeça! SQL - por Lynn Beighley
+  * NoSQL Essencial - por Martin Fowler
+<br>
+
+* Livros sobre Cloud
+  * Cloud Computing Security - por John R. Vacca 
+  * Multi-Cloud Architecture and Governance - por Jeroen Mulder
+<br>
+ 
+ * Livros sobre Segurança da Informação, CyberSecurity e Hacking
+   * Introdução ao Pentest - por Daniel Moreno
+   * Testes de Invasão: uma Introdução Prática ao Hacking - por Georgia Weidman
+   * Pentest em Redes de Computadores - por Royce Davis
+   * Pentest em Aplicações web - por Daniel Moreno
+   * The Web Application Hacker's Handbook - por Dafydd Stuttard
+   * The Browser Hacker's Handbook - por Wade Alcorn
+   * Rtfm: Red Team Field Manual - por Ben Clark
+   * Making Sense of Cybersecurity - por Thomas Kranz
+   * Black Hat Python - por Justin Seitz
+   * Violent Python - por TJ O'Connor
+   * Python Para Pentest - por Daniel Moreno
+   * Android Hacker's Handbook -  por Joshua J. Drake
+   * Attacking Network Protocols - por James Forshaw
+   * Practical Binary Analysis - por Dennis Andriesse
+   * Practical Malware Analysis - por Michael Sikorski
+   * Btfm: Blue Team Field Manual - por Ben Clark
+   * Defensive Security Handbook - por Lee Brotherston
+   * Threat Modeling: Designing for Security - por Adam Shostack
+   * Contagem Regressiva Até Zero day - por Kim Zetter
+   * A Arte de Enganar - por Kevin D. Mitnick
+
+</details>
 <br>
 
 <h3 align="Center">EM DESENVOLVIMENTO</h3>
-Próximos Passos:  Adição de Indicações de Livros   |   Adição de Novos Itens
+Próximos Passos:  Adição de Links de E-commerce para as Indicações de Livros   |   Adição de Novos Itens
