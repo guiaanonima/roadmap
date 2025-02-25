@@ -328,55 +328,56 @@
 <br>
  
 * Livros sobre Computação e Sistemas Operacionais
-  * Sistemas Operacionais Modernos - por Andrew S. Tanenbaum
-  * Organização Estruturada de Computadores - por Andrew S. Tanenbaum
-  * Administração de Redes Linux - por Ricardo Lino Olonca
-  * Guia prático do servidor Linux - por Juliano Ramos
-  * Linux Bible - por Christopher Negus
-  * Linux Kernel Programming - por Kaiwan N Billimoria
+  * <a href="https://amzn.to/3EVPuaa">Sistemas Operacionais Modernos - por Andrew S. Tanenbaum</a>
+  * <a href="https://amzn.to/3F4iBrO">Organização Estruturada de Computadores - por Andrew S. Tanenbaum</a>
+  * <a href="https://amzn.to/43cWNo3">Administração de Redes Linux - por Ricardo Lino Olonca</a>
+  * <a href="https://amzn.to/4bhVqGE">Guia prático do servidor Linux - por Juliano Ramos</a>
+  * <a href="https://amzn.to/43dZYMo">Linux Bible - por Christopher Negus</a>
+  * <a href="https://amzn.to/43cX0Yn">Linux Kernel Programming - por Kaiwan N Billimoria</a>
 <br>
  
  * Livros sobre Redes de Computadores
-   * Redes de Computadores - por Andrew Tanenbaum
-   * Redes de Computadores e Internet - por Douglas E. Comer
-   * Redes de Computadores e a Internet: Uma Abordagem Top-Down - por Jim Kurose (Autor)
+   * <a href="https://amzn.to/4icAVgT">Redes de Computadores - por Andrew Tanenbaum</a>
+   * <a href="https://amzn.to/419ns2q">Redes de Computadores e Internet - por Douglas E. Comer</a>
+   * <a href="https://amzn.to/41zKQI0">Redes de Computadores e a Internet: Uma Abordagem Top-Down - por Jim Kurose (Autor)</a>
 <br>
 
 * Livros sobre Banco de Dados e SQL
-  * Introdução à Linguagem SQL: Abordagem Prática Para Iniciantes - por Thomas Nield
-  * Use a cabeça! SQL - por Lynn Beighley
-  * NoSQL Essencial - por Martin Fowler
+  * <a href="https://amzn.to/4bk1L4A">Introdução à Linguagem SQL: Abordagem Prática Para Iniciantes - por Thomas Nield</a>
+  * <a href="https://amzn.to/4h0j8Zl">Use a cabeça! SQL - por Lynn Beighley</a>
+  * <a href="https://amzn.to/4i8CcWN">NoSQL Essencial - por Martin Fowler</a>
 <br>
 
 * Livros sobre Cloud
-  * Cloud Computing Security - por John R. Vacca 
-  * Multi-Cloud Architecture and Governance - por Jeroen Mulder
+  * <a href="https://amzn.to/4gWdhEo">Cloud Computing Security - por John R. Vacca </a>
+  * <a href="https://amzn.to/4bjkahB">Multi-Cloud Architecture and Governance - por Jeroen Mulder</a>
 <br>
  
  * Livros sobre Segurança da Informação, CyberSecurity e Hacking
-   * Introdução ao Pentest - por Daniel Moreno
-   * Testes de Invasão: uma Introdução Prática ao Hacking - por Georgia Weidman
-   * Pentest em Redes de Computadores - por Royce Davis
-   * Pentest em Aplicações web - por Daniel Moreno
-   * The Web Application Hacker's Handbook - por Dafydd Stuttard
-   * The Browser Hacker's Handbook - por Wade Alcorn
-   * Rtfm: Red Team Field Manual - por Ben Clark
-   * Making Sense of Cybersecurity - por Thomas Kranz
-   * Black Hat Python - por Justin Seitz
-   * Violent Python - por TJ O'Connor
-   * Python Para Pentest - por Daniel Moreno
-   * Android Hacker's Handbook -  por Joshua J. Drake
-   * Attacking Network Protocols - por James Forshaw
-   * Practical Binary Analysis - por Dennis Andriesse
-   * Practical Malware Analysis - por Michael Sikorski
-   * Btfm: Blue Team Field Manual - por Ben Clark
-   * Defensive Security Handbook - por Lee Brotherston
-   * Threat Modeling: Designing for Security - por Adam Shostack
-   * Contagem Regressiva Até Zero day - por Kim Zetter
-   * A Arte de Enganar - por Kevin D. Mitnick
+   * <a href="https://amzn.to/43bxLFG">Introdução ao Pentest - por Daniel Moreno</a>
+   * <a href="https://amzn.to/4boeRh1">Testes de Invasão: uma Introdução Prática ao Hacking - por Georgia Weidman</a>
+   * <a href="https://amzn.to/4hSwtEh">Pentest em Redes de Computadores - por Royce Davis</a>
+   * <a href="https://amzn.to/3XhOxz8">Pentest em Aplicações web - por Daniel Moreno</a>
+   * <a href="https://amzn.to/43dR8Oy">The Web Application Hacker's Handbook - por Dafydd Stuttard</a>
+   * <a href="https://amzn.to/43dRgO2">The Browser Hacker's Handbook - por Wade Alcorn</a>
+   * <a href="https://amzn.to/417yBRm">Rtfm: Red Team Field Manual - por Ben Clark</a>
+   * <a href="https://amzn.to/419nSWy">Making Sense of Cybersecurity - por Thomas Kranz</a>
+   * <a href="https://amzn.to/3D4Ic3s">Black Hat Python - por Justin Seitz</a>
+   * <a href="https://amzn.to/41v2oEX">Violent Python - por TJ O'Connor</a>
+   * <a href="https://amzn.to/3XgKAuT">Python Para Pentest - por Daniel Moreno</a>
+   * <a href="https://amzn.to/3QB4ZXy">Android Hacker's Handbook -  por Joshua J. Drake</a>
+   * <a href="https://amzn.to/3Qyies3">Attacking Network Protocols - por James Forshaw</a>
+   * <a href="https://amzn.to/3D7J1Za">Practical Binary Analysis - por Dennis Andriesse</a>
+   * <a href="https://amzn.to/437omiA">Practical Malware Analysis - por Michael Sikorski</a>
+   * <a href="https://amzn.to/438qCWV">Btfm: Blue Team Field Manual - por Ben Clark</a>
+   * <a href="https://amzn.to/3Dad82f">Defensive Security Handbook - por Lee Brotherston</a>
+   * <a href="https://amzn.to/43fUQHp">Threat Modeling: Designing for Security - por Adam Shostack</a>
+   * <a href="https://amzn.to/43bWgCN">Contagem Regressiva Até Zero day - por Kim Zetter</a>
+   * <a href="https://amzn.to/4ibXtOK">A Arte de Enganar - por Kevin D. Mitnick</a>
+
 
 </details>
 <br>
 
 <h3 align="Center">EM DESENVOLVIMENTO</h3>
-Próximos Passos:  Adição de Links de E-commerce para as Indicações de Livros   |   Adição de Novos Itens
+Próximos Passos:  Adição de Indicações de Cursos
